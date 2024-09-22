@@ -3,8 +3,8 @@ import socket
 import ure
 import time
 
-ap_ssid = "WifiManager"
-ap_password = "wifi1234"
+ap_ssid = "reloj"
+ap_password = "hora1234"
 ap_authmode = 3  # WPA2
 
 NETWORK_PROFILES = 'wifi.dat'
